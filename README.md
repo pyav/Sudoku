@@ -5,7 +5,7 @@ script uses a text file as input which contains the test cases, executes
 the Java code and runs the byte code. It constructs an input string from
 the testcase file and sends it to the byte code as argument. The input testcase
 file contains the number of testcases, the size of square matrix for each of
-the tests followed by he data for the given Sudoku problem in a matrix. 
+the tests followed by the data for the given Sudoku problem in a matrix. 
 
 ## Execution
 The Python3 test script is run by the following command:

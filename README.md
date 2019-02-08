@@ -30,6 +30,7 @@ Test 7: b' Solution is possible :) 1 2 \n2 1 \n'
 
 ## Further Improvements
 Comments/ pull requests are welcome for the following:
+
     1. Enhancement for the core algorithm.
     2. Suggest more tests
     3. Enhance the test script itself

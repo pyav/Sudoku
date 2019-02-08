@@ -20,6 +20,7 @@ input string and passes it to the byte code as argument.
 Here is the output of the above command execution:
 
 $ python3 test_sudoku.py
+
 Test 1: b' Solution is possible :) 2 1 3 \n1 3 2 \n3 2 1 \n'
 Test 2: b' Solution is possible :) 2 3 1 4 \n1 4 2 3 \n4 1 3 2 \n3 2 4 1 \n'
 Test 3: b' Solution is not possible :( '
@@ -32,8 +33,8 @@ Test 7: b' Solution is possible :) 1 2 \n2 1 \n'
 Comments/ pull requests are welcome for the following:
 
     1. Enhancement for the core algorithm.
-    2. Suggest more tests
-    3. Enhance the test script itself
+    2. Suggest more tests.
+    3. Enhance the test script itself.
     4. Coding style and any constructive updates.
 
 Thanks for putting in your time to review.

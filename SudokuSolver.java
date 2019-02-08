@@ -1,5 +1,5 @@
 /**
- * Following code demonstrates the solution of Sudoku in a 3X3 matrix.
+ * Following code demonstrates the solution of a given Sudoku problem.
  * 
  * @author pyav
  */

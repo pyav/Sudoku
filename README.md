@@ -3,9 +3,7 @@ This repository is for having a solution to the Sudoku problem. It contains the 
 written in Java whereas the testing script is in Python3. This test
 script uses a text file as input which contains the test cases, executes
 the Java code and runs the byte code. It constructs an input string from
-the testcase file and sends it to the byte code as argument. The input
-contains the size of square matrix which contains the data for the
-given Sudoku problem. 
+the testcase file and sends it to the byte code as argument. The input testcase file contains the number of testcases, the size of square matrix for each of the followed by he data for the given Sudoku problem. 
 
 ## Execution
 The Python3 test script is run by the following command:

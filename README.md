@@ -1,6 +1,5 @@
 # Sudoku solver and Tests
-This repository is for having a solution to the Sudoku problem. It contains files 
-for the solution program, testcases and testing script. The solution is
+This repository is for having a solution to the Sudoku problem. It contains the solution program, testcases and testing script. The solution is
 written in Java whereas the testing script is in Python3. This test
 script uses a text file as input which contains the test cases, executes
 the Java code and runs the byte code. It constructs an input string from

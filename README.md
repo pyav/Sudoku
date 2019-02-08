@@ -1,8 +1,7 @@
 # Sudoku solver and Tests
 This repository is for having a solution to the Sudoku problem. It contains the solution program, testcases and testing script. The solution is
 written in Java whereas the testing script is in Python3. This test
-script uses a text file as input which contains the test cases, executes
-the Java code and runs the byte code. It constructs an input string from
+script uses a text file as input which contains the test cases, compiles the Java code and runs the byte code. It constructs an input string from
 the testcase file and sends it to the byte code as argument. The input testcase
 file contains the number of testcases, the size of square matrix for each of
 the tests followed by the data for the given Sudoku problem in a matrix. 

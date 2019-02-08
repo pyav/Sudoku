@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-This program file reads an input testcase file and constructs an input string
+This program reads an input testcase file and constructs an input string
 which it then sends to the Sudoku solver program. It then gets the return value
 which tells whether a solution is possible for the Sudoku problem given in the
 input file having testcases.

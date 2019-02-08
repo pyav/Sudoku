@@ -29,7 +29,11 @@ Test 6: b' Solution is possible :) 1 2 3 4 5 6 8 7 9 \n4 1 2 6 7 8 5 9 3 \n2 7 4
 Test 7: b' Solution is possible :) 1 2 \n2 1 \n'
 
 ## Further Improvements
-Comments/ pull requests are welcome to enhance the algorithm used, include more
-tests, enhance the test script itself, coding style and any constructive
-updates.
+Comments/ pull requests are welcome for the following:
+    1. Enhancement for the core algorithm.
+    2. Suggest more tests
+    3. Enhance the test script itself
+    4. Coding style and any constructive updates.
+
 Thanks for putting in your time to review.
+

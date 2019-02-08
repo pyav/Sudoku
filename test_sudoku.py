@@ -7,7 +7,6 @@ which tells whether a solution is possible for the Sudoku problem given in the
 input file having testcases.
 
 __author__ = pyav
-
 '''
 
 import os

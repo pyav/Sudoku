@@ -140,7 +140,7 @@ public class SudokuSolver {
 	
 	public static void main(String[] args) {
 		
-        int size = Character.getNumericValue(args[0].charAt(0));
+        	int size = Character.getNumericValue(args[0].charAt(0));
 		int[][] matrix = new int[size][size];
 		int val_index = 2;
 		
